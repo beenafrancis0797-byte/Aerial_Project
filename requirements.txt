@@ -1,0 +1,14 @@
+tensorflow
+keras
+torch
+torchvision
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+streamlit
+fastapi
+uvicorn

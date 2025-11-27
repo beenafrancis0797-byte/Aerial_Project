@@ -1,0 +1,26 @@
+# Ignore YOLO training outputs
+runs/
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model weights (optional)
+*.pt
+*.h5
+
+# Logs
+*.log
+
+# OS-specific
+Thumbs.db
+.DS_Store
